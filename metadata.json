@@ -1,0 +1,6 @@
+{
+  "name": "Wireless Security Interactive Guide",
+  "description": "An interactive study guide for ECE5303 covering Wireless Hacking, 802.11 standards, Bluetooth security, and attack methodologies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
